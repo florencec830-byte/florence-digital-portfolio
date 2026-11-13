@@ -1,5 +1,5 @@
 
-# Hello, I'm Florence Chukwuma! 👋
+# Hello, I'm Florence Chukwuma! 
 
 Welcome to my digital portfolio.
 
@@ -7,7 +7,7 @@ I'm an aspiring Virtual Assistant, creative entrepreneur, and digital skills lea
 
 I'm passionate about learning technology, developing practical digital skills, building creative projects, and exploring opportunities in the digital world.
 
-## 🌱 About Me
+##  About Me
 
 - 💻 Learning digital skills and technology.
 - 📁 Building my professional digital portfolio.
@@ -15,7 +15,7 @@ I'm passionate about learning technology, developing practical digital skills, b
 - 💼 Interested in remote opportunities in Virtual Assistance and Administrative Support.
 - 🚀 Building and developing creative business projects.
 
-## 🛠️ Tools I'm Exploring
+##  Tools I'm Exploring
 
 - Google Workspace
 - Microsoft Office
@@ -28,7 +28,7 @@ I'm passionate about learning technology, developing practical digital skills, b
 - CapCut
 - GitHub
 
-## 🎯 My Goals
+##  My Goals
 
 - Develop professional digital skills.
 - Build practical projects.
@@ -36,13 +36,13 @@ I'm passionate about learning technology, developing practical digital skills, b
 - Explore Artificial Intelligence and technology.
 - Grow professionally and access remote work opportunities.
 
-## 📌 Current Projects
+##  Current Projects
 
 - Florence's Digital Portfolio
 - LORA BEVERAGE
 - Flora Collection & More
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/florencec830-byte
 - Location: Lagos, Nigeria
