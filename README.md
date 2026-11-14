@@ -51,5 +51,3 @@ I'm passionate about learning technology, developing practical digital skills, b
 
 ⭐ Thank you for visiting my profile!
 
-
-⭐ Thank you for visiting my profile!
